@@ -2,11 +2,12 @@
 body {
     /* CSS Declaration */
     /* CSS Rule property:value;*/
-    background-color: rgba(255, 179, 0, 0.549);
+    background-color: rgba(0, 0, 0, 0.549);
     font-family:"Roboto";
 }
 
 header {
+    background-color: rgb(180, 164, 196);
 display:flex;
 align-items: center;
 justify-content: space-between;
@@ -21,11 +22,11 @@ justify-content: space-between;
     /* Shorthand */
     border: black 4px solid;
 
-    padding: 100px;
-    margin: 100px;
-    font-size: 50px;
+    padding: 10px;
+    margin: 20px;
+    font-size: 35px;
     font-weight: bold;
-    background-color: rgba(0, 251, 255, 0.664);
+    background-color: rgba(0, 208, 255, 0.719);
     
 
 }
