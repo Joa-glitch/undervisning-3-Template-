@@ -30,7 +30,9 @@ justify-content: space-between;
     
 
 }
-
+img{
+    max-width: 100%;
+}
 .navigationList {
     display: flex;
     gap:10px;
